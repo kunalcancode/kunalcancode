@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">An enthusiastic full-stack developer from Australia</h3>
 
+- 😄 Pronouns: He/Him
+
 - 🌱 I’m currently learning **React**
 
 - 👨🏽‍💻 Just completed Le Wagon bootcamp
