@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨🏽‍💻 Just completed Le Wagon bootcamp
+- 👨🏽‍💻 Recently completed Le Wagon bootcamp
 
 - ⚡ Fun fact **Unanimously voted funniest in year 9**
 
